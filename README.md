@@ -13,7 +13,7 @@ To run the code, you will need the following libraries:
 - seaborn
 
 ## Content
-- Iris_Flower_Classification.ipynb: Jupyter notebook containing the code for data analysis, model training, evaluation, and predictions.
+- TASK 1 (iris).ipynb: Jupyter notebook containing the code for data analysis, model training, evaluation, and predictions.
 - iris.data: Dataset file containing the Iris data in CSV format.
 
 ## Model Performance
